@@ -45,12 +45,11 @@ author:
   name:                Shuying Li
   email:               ebi4642@gmail.com
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             <username>
+  github:              sli-23
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
   - title:             Projects
     url:               /projects/
   - title:             Résumé*
