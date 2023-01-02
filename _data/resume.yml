@@ -2,10 +2,10 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
+  name: "Shuying Li"
+  label: "Data Scientist & Programmer"
   picture: "https://via.placeholder.com/240x240"
-  email: ""
+  email: "sygli@ucdavis.edu"
   phone: "(530) 220-8132"
   website: "https://sli-23.github.io/blog/"
   summary: >
@@ -18,19 +18,13 @@ basics:
     everything from quantum computing to chaos theory.
     He could tell you about it, but THAT would NOT be a “length-limited” conversation!
     Open `_data/resume.yml` to edit this text.
-  location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "Shuying Li"
+      url: "https://www.linkedin.com/in/shuying-li-836479215/"
+    - network: "GitHub"
+      username: "sli-23"
+      url: "https://github.com/sli-23"
 work:
   - company: "Pied Piper"
     position: "CEO/President"
@@ -55,12 +49,12 @@ volunteer:
     highlights:
       - "Awarded 'Teacher of the Month'"
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
+  - institution: "University of California Davis"
+    area: "Applied Statistics - Data Science Track"
     studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
+    startDate: "2019-09-01"
+    endDate: "2023-07-01"
+    gpa: "3.7"
     courses:
       - "DB1101 - Basic SQL"
       - "CS2011 - Java Introduction"
